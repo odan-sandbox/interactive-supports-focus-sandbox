@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@acot/acot-config": "^0.0.4",
+    "@acot/cli": "^0.0.4",
+    "puppeteer": "^5.5.0"
+  }
+}
